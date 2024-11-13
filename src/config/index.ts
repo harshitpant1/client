@@ -1,5 +1,5 @@
 const config = {
-	socketIoServerAddress: 'localhost:5000',
+	socketIoServerAddress: 'https://server-production-0ad2.up.railway.app/',
 	game: {
 		cardThemes: ['teleinfa', 'dogs'],
 		defaultCardTheme: 'teleinfa'
